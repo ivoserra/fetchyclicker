@@ -1,6 +1,6 @@
 {
 	"name": "fetchyclicker",
-	"homepage":"/",
+	"homepage":"https://github.com/ivoserra/fetchyclicker",
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
