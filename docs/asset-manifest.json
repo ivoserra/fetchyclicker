@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ivoserra/fetchyclicker/static/css/main.f488fc79.css",
-    "main.js": "/ivoserra/fetchyclicker/static/js/main.d8735cee.js",
-    "index.html": "/ivoserra/fetchyclicker/index.html",
-    "main.f488fc79.css.map": "/ivoserra/fetchyclicker/static/css/main.f488fc79.css.map",
-    "main.d8735cee.js.map": "/ivoserra/fetchyclicker/static/js/main.d8735cee.js.map"
+    "main.css": "/fetchyclicker/static/css/main.f488fc79.css",
+    "main.js": "/fetchyclicker/static/js/main.d8735cee.js",
+    "index.html": "/fetchyclicker/index.html",
+    "main.f488fc79.css.map": "/fetchyclicker/static/css/main.f488fc79.css.map",
+    "main.d8735cee.js.map": "/fetchyclicker/static/js/main.d8735cee.js.map"
   },
   "entrypoints": [
     "static/css/main.f488fc79.css",

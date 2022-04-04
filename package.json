@@ -1,6 +1,6 @@
 {
 	"name": "fetchyclicker",
-	"homepage": "https://github.com/ivoserra/fetchyclicker",
+	"homepage": "https://ivoserra.github.io/fetchyclicker",
 	"scripts": {
 		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
